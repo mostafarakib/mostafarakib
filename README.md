@@ -6,43 +6,49 @@ I'm very much passionate about web based applications specially in frontend deve
 
 ## Front-End Development
 
-![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS Logo](https://img.icons8.com/color/48/000000/css3.png)
-![SCSS Logo](https://img.icons8.com/color/48/000000/sass.png)
-![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Tailwind CSS Logo](https://img.icons8.com/color/48/000000/tailwindcss.png)
-![React Logo](https://img.icons8.com/color/48/000000/react-native.png)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 
 ## Back-End Development
 
-![Node.js Logo](https://img.icons8.com/color/48/000000/nodejs.png)
-   ![Express.js Logo](https://img.icons8.com/color/48/000000/express-js.png)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
 
 ## Database
 
-![MongoDB Logo](https://img.icons8.com/color/48/000000/mongodb.png)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## Tools
 
-![Git Logo](https://img.icons8.com/color/48/000000/git.png)
-![GitHub Logo](https://img.icons8.com/material-sharp/48/000000/github.png)
-![Firebase Logo](https://img.icons8.com/color/48/000000/firebase.png)
-![Figma Logo](https://img.icons8.com/color/48/000000/figma.png)
-![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![Adobe Photoshop Logo](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Mapbox API](https://img.shields.io/badge/-Mapbox_API-black?style=flat-square&logo=mapbox)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat-square&logo=adobe-photoshop)
 
 ## Programming Languages
 
-![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
-![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## Familiar with
 
-![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png)
-![Next.js Logo](https://img.icons8.com/color/48/000000/nextjs.png)
-![MySQL Logo](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
-![Material UI Logo](https://img.icons8.com/color/48/000000/material-ui.png)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
+![Material UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![OOP](https://img.shields.io/badge/-OOP-008000?logo=c%2B%2B&logoColor=white&style=flat)
+![DSA](https://img.shields.io/badge/-DSA-008000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAB3RJTUUH4gMUDTYtjKlP8gAAAAlwSFlzAAALEwAACxMBAJqcGAAAAARnQU1BAACxjwv8YQUAAAA8SURBVHjaYvz//z8DMAQAFf6FfgU6yAAAZRAAcAQgOGwAAHaGp8r/3DRqAAAAAElFTkSuQmCC&logoColor=white&style=flat)
 
 ## Problem Solving:
 

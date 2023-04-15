@@ -12,6 +12,7 @@ I'm very much passionate about web based applications specially in frontend deve
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs)
 
 ## Back-End Development
 
@@ -26,11 +27,14 @@ I'm very much passionate about web based applications specially in frontend deve
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
+![MS SQL Server Management Studio](https://img.shields.io/badge/-MS%20SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Mapbox API](https://img.shields.io/badge/-Mapbox_API-black?style=flat-square&logo=mapbox)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat-square&logo=adobe-photoshop)
 
